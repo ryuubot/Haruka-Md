@@ -1,5 +1,69 @@
-Cara mengambil session tanpa termux 
-
-https://youtu.be/7wfSvv4AHsQ
-
-get session without termux
+                                                          1966/835K                0%
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "yK1dxfVJJ7BuUq2KbkwqoxgI+U8NozD/C65Jm4yyjXg="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "DFjyJppnmMdHCRy4wjmM2hHc14HK7Gl/dyXbAWmIByM="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "iGGdHW/k/6pgofUWflyEyV2rzy6x4NNWx3ZE4CLLnFo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "+o4Utb6D1VdxN2D9AYtkq4HAwEcYgC8nyzpPKwbf2V0="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "2DIDIuMnUCx0l0YG78yXvFQYCoQ4ysMFDJ70RlMyOWM="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "17Ob4O85bdGDgdrx6hTiaT1e5XJ+L51+Du9uEMAEAQY="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "9I7qpuWwPVT+b5QLv60VhZMjx0iqxTGGfBXMi/1wPMy8lX7+0FVsaEGCPwqeYcNx1s/QnHGd9fMZxuneHj4Pjw=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 111,
+    "advSecretKey": "KpLyYJs10wF5yxhdcHR3QaWV1mnQmvvPY+GGruLw9Tw=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "6285751769592@s.whatsapp.net",
+          "fromMe": true,
+          "id": "525EC74A0DF848422A756920D2B44D7C"
+        },
+        "messageTimestamp": 1662175941
+      },
+      {
+        "key": {
+          "remoteJid": "6285751769592@s.whatsapp.net",
+          "fromMe": true,
+          "id": "87BDE8D34E33F98EC7852476222F5BCF"
+        },
+        "messageTimestamp": 1662175941
+      }
+    ],
+    "nextPreKeyId": 386,
+    "firstUnuploadedPreKeyId": 386,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CJSm0OsCELuVy5gGGAE=",
+      "accountSignatureKey": "G2jG9rPJTWD+7Ns11+LmX5laX+cPzXPnRD9QZaDnDnM=",
+      "accountSignature": "9jMH1bSGsiSBAourF3sBN+1kMEQXECT5y4+izp99yvDeAF57FmfStLu0vqMpW/ffTIRtFvmwEX2RbkYflDd2CA==",
